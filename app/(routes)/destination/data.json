@@ -1,0 +1,66 @@
+[
+    {
+        "id": "01",
+        "image": "/images/destinations/moon.webp",
+        "place": "moon",
+        "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
+        "distance": "384,000 km",
+        "timetravel": "3 minutes"
+    },
+    {
+        "id": "02",
+        "image": "/images/destinations/mars.webp",
+        "place": "mars",
+        "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
+        "distance": "225 MIL. km",
+        "timetravel": "9 minutes"
+    },
+    {
+        "id": "03",
+        "image": "/images/destinations/europa.webp",
+        "place": "EUROPA",
+        "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
+        "distance": "628 MIL. km",
+        "timetravel": "3 minutes"
+    },
+    {
+        "id": "04",
+        "image": "/images/destinations/titan.webp",
+        "place": "titan",
+        "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+        "distance": "1.6 BIL. km",
+        "timetravel": "7 minutes"
+    },
+    {
+        "id": "05",
+        "image": "/images/destinations/gliese.png",
+        "place": "gliese",
+        "description": "At least 4.5 times as massive as Earth. It orbits a red dwarf star, completing one orbit in just 28 days. It may be subject to flares from its star",
+        "distance": "22 LY",
+        "timetravel": "2 hours"
+    },
+    {
+        "id": "06",
+        "image": "/images/destinations/kepler.png",
+        "place": "kepler-22b",
+        "description": "About 2.4 times the size of Earth. It orbits a G-class star similar to our sun every 290 days. Its composition (rocky, liquid, or gaseous) is unknown",
+        "distance": "600 LY",
+        "timetravel": "6 hours"
+    },
+    {
+        "id": "07",
+        "image": "/images/destinations/Kepler-69c.png",
+        "place": "kepler-69c",
+        "description": "Approximately 70% larger than Earth. It orbits its star in 242 days. The host star is about 80% as luminous as the sun.",
+        "distance": "2700 LY",
+        "timetravel": "5 hours"
+    },
+    {
+        "id": "08",
+        "image": "/images/destinations/Kepler_62e.png",
+        "place": "kepler-62e",
+        "description": "About 40% larger than Earth, orbiting a cooler star. Its 267-day orbit places it within the habitable zone and is potentially a rocky planet with oceans",
+        "distance": "1200 LY",
+        "timetravel": "2 hours"
+    }
+]

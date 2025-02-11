@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body {
+  background-color: #0B0D17;
+  overflow-x: hidden;
+}
+
+ .ul a {
+  /* display: inline-block; */
+  position: relative;
+  cursor: pointer;
+}
+
+ .ul a::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0.125rem;
+  background-color: #fff;
+  align-items: center;
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all 0.3s ease-in-out;
+}
+
+ .ul a:hover::before {
+  width: 100%;
+}
+
+ .ul a.active::before{
+  width: 100%;
+}
+ .ul a.active{
+  color: #fff;
+}
+
+@media (max-width : 767px) {
+  
+   .ul a::before {
+    bottom: 0;
+    left: 0;
+    transform: translateX(0);
+  }
+
+   .ul a:hover::before {
+    width: 1.5rem;
+  }
+  
+   .ul a.active::before{
+    width: 1.5rem;
+  }
+}
+@media (max-width: 320px) {
+  .custom-width {
+    width: 50%; /* Two items per row on small screens */
+  }
+}
+
+@media (min-width: 321px) {
+  .custom-width {
+    width: auto; /* Single row on larger screens */
+  }
+}
+
+

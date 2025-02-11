@@ -1,0 +1,20 @@
+[
+    {
+        "id": "01",
+        "title": "TR010N",
+        "description": "A teleportation device that has the highest reliability and a speed of 7000 Tesla-Graviton / Hour. This device is capable of covering 700 light years in 1 hour and makes ue of Electromagnetic integration-disintegration device. The passengers passed to a hibernate stage and the travel is commenced within one hour. The device has been 100% secure in business use and tested and approved by Government of US and SpaceX",
+        "image": "/images/spaceships/spaceship1.jpg"
+    },
+    {
+        "id": "02",
+        "title": "WD0227",
+        "description": "A warpdrive traveller capable of warping through space time fabric and generates pseudo worm-holes to reach destinations. Much faster and comfortable. Passengers don't need to be hibernated. However it can cause some jerking while landing or take off owing to exponential warping and laser guided path generation throttling. 100% secure to use.",
+        "image": "/images/spaceships/spaceship2.jpg"
+    },
+    {
+        "id": "03",
+        "title": "Cap-Alpha007",
+        "description": "A space capsule that uses clock render axis warping method to travel destinations across space time. This does not need passenger hiberation and can travel 1000 light years in an hour at the maximum warp drive speed. Most liked by space travellers for its spacious design and comfortable rides.",
+        "image": "/images/spaceships/spaceship3.jpg"
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "space-tourism",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.10.0",
+    "@next/font": "^13.4.19",
+    "@react-three/drei": "^9.121.4",
+    "@react-three/fiber": "^8.17.14",
+    "@types/node": "20.6.1",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "classnames": "^2.3.2",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "framer-motion": "^10.16.4",
+    "next": "13.4.19",
+    "postcss": "8.4.29",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.54.2",
+    "react-router-dom": "^7.1.5",
+    "tailwindcss": "3.3.3",
+    "three": "^0.173.0",
+    "typescript": "5.2.2",
+    "yup": "^1.6.1",
+    "zustand": "^4.4.1"
+  }
+}
