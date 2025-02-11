@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
+    "@netlify/plugin-nextjs": "^5.9.4",
     "@next/font": "^13.4.19",
     "@react-three/drei": "^9.121.4",
     "@react-three/fiber": "^8.17.14",
