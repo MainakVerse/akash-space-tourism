@@ -9,4 +9,21 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://img.freepik.com/premium-vector/internet-network-communication-web-technology-computer-icon-vector-online-website-design_1013341-38020.jpg">
+    </td>
+    <td>
+      <h2>Tech Stack Used</h2>h2>
+      <ul>
+        <li>Next JS</li>
+        <li>Shadcn UI</li>
+        <li>Framer Motion</li>
+        <li>Gemini API</li>
+        <li>Google App Script</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
