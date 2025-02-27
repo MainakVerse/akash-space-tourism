@@ -22,7 +22,7 @@ async function handleGeminiAPI(query: string): Promise<string> {
     throw new Error("API key not configured");
   }
 
-  const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`;
+  const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`;
 
   const prompt = {
     contents: [{
